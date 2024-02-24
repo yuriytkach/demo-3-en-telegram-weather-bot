@@ -1,0 +1,12 @@
+quarkus:
+  rest-client:
+    reverse-geocode-api:
+      url: https://api.bigdatacloud.net
+    weather-api:
+      url: https://api.open-meteo.com
+    geocode-api:
+      url: https://geocode.maps.co
+
+app:
+  geo-code-api-key: "<key>" # Get yours free at https://geocode.maps.co
+  telegram-secret-token: "<token>" # Token that you've used when registering webhook
