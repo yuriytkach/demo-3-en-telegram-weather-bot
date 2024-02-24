@@ -16,6 +16,8 @@ volunteering initiative to help Ukrainian Armed Forces.
 
 Thank you in advance for your support! Слава Україні! :ukraine:
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uIh01uFJb2M/0.jpg)](https://www.youtube.com/watch?v=uIh01uFJb2M)
+
 ## Running the application in dev mode
 
 Before running the application you need to set the API KEY for geo coding service
